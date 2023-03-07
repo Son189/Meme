@@ -10,10 +10,8 @@ import MemeList from './Memelist';
 import DeleteButton from './delete';
 import Signup from './Signup';
 import Login from './Login';
-/*import MemeGenerator from './addmemes';*/
 import Search from './Search';
 import Home from './Home';
-
 function App() {
   return (
     <BrowserRouter>
